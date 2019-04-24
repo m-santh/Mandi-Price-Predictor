@@ -1,4 +1,4 @@
-# Mandi-Price-Predictor
+# Mandi Price Predictor
 
 The demand for e-market in agriculture is increasing YoY. With it, there is considerable interest in automation of trading and farming. 
 
